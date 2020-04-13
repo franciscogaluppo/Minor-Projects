@@ -3,6 +3,12 @@
 Collection of small projects related to Operations Research, Data Science and Statistics.
 
 
+## 5. [WorldWarBot](https://github.com/franciscogaluppo/Minor-Projects/blob/master/WorldWarBot.ipynb)
+![WorldWar using Belo Horizonte Map](readme_images/worldwarbot.gif)
+
+Simulations based on WorldWarBot done in python, using my home city as the map. The above gif has 250 "conquests" per frame.
+
+
 ## 4. [Chromatic Number of Random Graphs](https://github.com/franciscogaluppo/Minor-Projects/blob/master/Chromatic%20Number%20of%20Random%20Graphs.ipynb)
 ![Chromatic Distribution](readme_images/chromatica-n10.gif)
 
