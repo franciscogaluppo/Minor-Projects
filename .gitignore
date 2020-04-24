@@ -1,8 +1,4 @@
-.ipynb_checkpoints
-Data/BH
-Data/br_estados_2018
-Data/br_microrregioes_2018
-Data/br_municipios_2018
-Silhuete Clustering.ipynb
-teste
-wikipedia_parse.ipynb
+notebooks.ipynb_checkpoints
+notebooks/data
+notebooks/wikipedia_parse.ipynb
+notebooks/Silhuete Clustering.ipynb
